@@ -1,0 +1,103 @@
+h1 {
+    font-size: 55px;
+    color: #1F3E59;
+    margin-bottom: 40px;
+}
+
+input {
+    background-color: pink;
+    margin-bottom: 50px;
+    width: 80%;
+}
+
+label {
+    color: #1F3E59;
+    margin-right: 50px;
+    font-size: 17px;
+}
+
+.footer {
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    position: fixed;
+    bottom: 0;
+    color: #1F3E59;
+}
+
+#add {
+    background-color: #1F3E59;
+    color: white;
+    font-size: 20px;
+    margin-right: 50px;
+    border: none;
+}
+
+/* input[type="checkbox"] {
+    margin-right: 30px;
+} */
+
+thead {
+    background-color: #1F3E59;
+    height: 60px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.dottedBorder {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px dotted #1F3E59;
+}
+
+.statistics {
+    color: #1F3E59;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.form-control {
+    background-color: pink;
+    width: 90%;
+    margin-left: 20px;
+}
+
+.dottedRow {
+    height: 65px;
+    border-bottom: 3px dotted #1F3E59;
+}
+
+#aside {
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    min-height: 705px;
+}
+
+#deleteAll {
+    font-size: 30px;
+}
+
+#submitContent {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#statisticsRow {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#tooltipButton {
+    background-color:pink;
+    font-size: 20px;
+    color: #1F3E59;
+}
